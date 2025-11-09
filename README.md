@@ -1,4 +1,4 @@
-# C Project: Student Record Management System
+# C Project: Student Attendance Record
 
 This is a mini project in C for managing student records using file handling.  
 It allows users to add, display, search, update, and delete student records through a simple menu-driven interface.
@@ -8,7 +8,8 @@ It allows users to add, display, search, update, and delete student records thro
 - Display all existing records  
 - Search student records by ID number  
 - Update student information  
-- Delete student records  
+- Delete student records
+- Percentage calculating
 
 ## Technologies Used
 - C Programming  
