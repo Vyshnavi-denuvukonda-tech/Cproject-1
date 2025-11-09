@@ -1,3 +1,8 @@
+// Student Attendance Register
+// Developed by Vyshnavi Denuvukonda
+// Description: A file-handling based attendance system in C
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
