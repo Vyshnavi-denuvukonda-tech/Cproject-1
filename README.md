@@ -20,4 +20,4 @@ It allows users to add, display, search, update, and delete student records thro
 3. Use the on-screen menu to perform operations.
 
 ## Author
-Developed by Vyshnavi Denumukonda
+Developed by Vyshnavi Denuvukonda
